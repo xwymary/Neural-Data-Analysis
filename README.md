@@ -1,6 +1,7 @@
 # Neural-Data-Analysis
 
 exercise1: spike detection, feature extraction <br />
+*wew <br/>
 exercise2: spike sorting <br />
 exercise3: identifying single neurons with cross-correlograms and LDA <br />
 exercise4: spike inference from calcium data <br />
